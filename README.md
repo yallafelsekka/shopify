@@ -1,6 +1,3 @@
-FORMAT: 1A  
-HOST: https://polls.apiblueprint.org/
-
 # YFS Delivery – Shopify Integration Guide
 
 This guide explains how to integrate your Shopify store with **YFS Delivery** as your delivery partner.
